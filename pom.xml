@@ -17,6 +17,7 @@
 
     <dependencies>
         <pr>
+        <brLocal>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
