@@ -16,6 +16,7 @@
     </properties>
 
     <dependencies>
+        <pr>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
