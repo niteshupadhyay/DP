@@ -24,5 +24,6 @@
             <scope>test</scope>
         </dependency>
         <master>
+        <MasterLocal>
     </dependencies>
 </project>
